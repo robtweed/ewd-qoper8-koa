@@ -1,6 +1,6 @@
 {
   "name": "ewd-qoper8-koa",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "ewd-qoper8 message handling and router for Koa.js",
   "main": "index.js",
   "scripts": {
